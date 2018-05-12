@@ -1,0 +1,30 @@
+﻿生成启动时间为 2018/2/26 16:36:55。
+     1>项目“E:\孙洲宇\OpenCVmfc\OpenCVmfc\OpenCVmfc.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“E:\孙洲宇\OpenCVmfc\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\OpenCVmfc.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\孙洲宇\OpenCVmfc\Release\OpenCVmfc.exe" /INCREMENTAL:NO /NOLOGO vfw32.lib comctl32.lib zlib.lib libjasper.lib libjpeg.lib libpng.lib libtiff.lib IlmImf.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_features2d2410.lib opencv_core2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib opencv_nonfree2410.lib opencv_objdetect2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_videostab2410.lib /MANIFEST /ManifestFile:"Release\OpenCVmfc.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\孙洲宇\OpenCVmfc\Release\OpenCVmfc.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\孙洲宇\OpenCVmfc\Release\OpenCVmfc.lib" /MACHINE:X86 Release\OpenCVmfc.res
+         Release\CvvImage.obj
+         Release\OpenCVmfc.obj
+         Release\OpenCVmfcDlg.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         OpenCVmfc.vcxproj -> E:\孙洲宇\OpenCVmfc\Release\OpenCVmfc.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\孙洲宇\OpenCVmfc\Release\OpenCVmfc.exe;#1" /manifest Release\OpenCVmfc.exe.intermediate.manifest D:\vs2010\VC\Include\Manifest\dpiaware.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\OpenCVmfc.unsuccessfulbuild”。
+         正在对“Release\OpenCVmfc.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\孙洲宇\OpenCVmfc\OpenCVmfc\OpenCVmfc.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.23
